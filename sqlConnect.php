@@ -5,7 +5,7 @@
 </body>
 <?php
 $servername = "localhost";
-$username = "school";
+$username = "user";
 $password = "password";
 
 // Create connection

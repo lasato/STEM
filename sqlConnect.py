@@ -1,6 +1,6 @@
 import MySQLdb
 
-db = MySQLdb.connect(host="localhost", user="school", passwd="password", db="school")
+db = MySQLdb.connect(host="localhost", user="user", passwd="password", db="school")
 db.autocommit(True)
 # Create cursor
 cur = db.cursor(MySQLdb.cursors.DictCursor)
