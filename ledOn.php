@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "user";
 $password = "password";
-$dbname = "ledSite";
+$dbname = "school";
   
 
 // Create connection
